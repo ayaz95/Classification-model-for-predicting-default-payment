@@ -1,0 +1,34 @@
+-- Authors:
+
+1. Neeraj Sehrawat (s3711712)
+2. Ayaz Mujawar(s3751555)
+
+
+-- Project Title:
+
+A classification model for finding default on credit card payment
+
+
+-- Motivation
+
+The main aim behind taking this project is that it provides bank the information regarding the customers who could default the next month payment.
+
+-- Data
+We have taken data from UCI Machine Learning Repository for Analysis and Modelling purpose.
+
+-- Software Requirements:
+
+Python-2
+
+-- Environment
+
+Jupyter Notebook
+
+-- Working:
+
+1. import the csv file in the ipynb python notebook file.
+2. Then prepare the data by cleaning the NULL values, .
+3. Explore the data by different visualization techniques.
+4. Apply Classification Machine Learning Model to the data to find the Insight from the data.
+ 
+
